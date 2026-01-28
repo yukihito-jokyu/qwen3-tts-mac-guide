@@ -1,12 +1,14 @@
----
-tags:
-  - Qwen3-TTS
-  - 音声合成
-  - Mac環境構築
-created: "2026-01-28-22:00"
----
+<div align="center">
+
+![GitHub Stars](https://img.shields.io/github/stars/yukihito-jokyu/qwen3-tts-mac-guide?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/yukihito-jokyu/qwen3-tts-mac-guide?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/yukihito-jokyu/qwen3-tts-mac-guide)
+![GitHub License](https://img.shields.io/github/license/yukihito-jokyu/qwen3-tts-mac-guide)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 
 # MacでQwen3-TTSを使ってみよう：音声合成環境のセットアップガイド
+
+</div>
 
 ## はじめに：Qwen3-TTSとは？
 
